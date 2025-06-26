@@ -1,12 +1,14 @@
 import './styles/theme.css'
 import './styles/global.css'
 
+import { Heading } from './components/Heading'
+
 
 export function App() {
     
     return (
         <>
-            <h1>Ola mundo</h1>
+            <Heading/> 
             <p>meu primeiro componente</p>
         </>
     )
