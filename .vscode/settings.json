@@ -1,9 +1,11 @@
 {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
+    "workbench.editor.labelFormat": "short",
 
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     }
+    
 
 }
